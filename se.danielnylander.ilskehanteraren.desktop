@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Ilskehanteraren
+Name=Anger Manager
+Name[sv]=Ilskehanteraren
 Comment=Step-by-step anger management
 Comment[sv]=Steg-för-steg ilskehantering för barn
 Exec=ilskehanteraren

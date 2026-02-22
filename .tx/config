@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+[o:danielnylander:p:ilskehanteraren:r:ilskehanteraren-pot]
+file_filter = po/<lang>.po
+source_file = po/ilskehanteraren.pot
+source_lang = en
+type = PO

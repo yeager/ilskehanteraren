@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ilskehanteraren
+Comment=Step-by-step anger management
+Comment[sv]=Steg-för-steg ilskehantering för barn
+Exec=ilskehanteraren
+Icon=se.danielnylander.ilskehanteraren
+Type=Application
+Categories=Education;Accessibility;

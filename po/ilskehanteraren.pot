@@ -1,0 +1,247 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ilskehanteraren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ilskehanteraren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/ilskehanteraren/main.py:23
+msgid "A little annoyed"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:24
+msgid "Frustrated"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:25
+msgid "Angry"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:26
+msgid "Very angry"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:27
+msgid "Explosion"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:32
+msgid "Deep Breathing"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:33
+msgid "Stop what you're doing"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:33
+msgid "Breathe in through your nose... 1, 2, 3, 4"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:34
+msgid "Hold... 1, 2, 3"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:34
+msgid "Breathe out through your mouth... 1, 2, 3, 4, 5"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:35
+msgid "Repeat 3 times"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:35 src/ilskehanteraren/main.py:211
+msgid "How do you feel now?"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:36
+msgid "Walk Away"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:37
+msgid "Tell someone you need a break"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:37
+msgid "Walk to a calm place"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:38
+msgid "Stay there for 5 minutes"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:38
+msgid "Think about what happened"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:39
+msgid "When you're calm, go back"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:40
+msgid "Count Down"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:41
+msgid "Close your eyes"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:41
+msgid "Count slowly from 10 to 1"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:42
+msgid "10... 9... 8... 7... 6..."
+msgstr ""
+
+#: src/ilskehanteraren/main.py:42
+msgid "5... 4... 3... 2... 1..."
+msgstr ""
+
+#: src/ilskehanteraren/main.py:43
+msgid "Open your eyes"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:43
+msgid "Take a deep breath"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:44
+msgid "Squeeze and Release"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:45
+msgid "Make tight fists with both hands"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:45
+msgid "Squeeze as hard as you can"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:46
+msgid "Hold for 5 seconds"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:46
+msgid "Now release and shake your hands"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:47
+msgid "Feel the tension leaving"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:47
+msgid "Do it again if needed"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:48
+msgid "Talk About It"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:49
+msgid "Find a trusted person"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:49
+msgid "Say: 'I feel angry because...'"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:50
+msgid "Let them listen"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:50
+msgid "Ask for help if you need it"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:51
+msgid "Make a plan together"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:58 src/ilskehanteraren/main.py:288
+msgid "Ilskehanteraren"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:67
+msgid "About"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:81
+msgid "How angry are you right now?"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:106
+msgid "Check-in"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:115
+msgid "Choose a calming strategy"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:144
+msgid "← Back"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:149
+msgid "Strategies"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:179
+msgid "← Previous"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:184 src/ilskehanteraren/main.py:255
+msgid "Next →"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:191
+msgid "Steps"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:205
+msgid "Great job! You handled your anger!"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:224
+msgid "Start over"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:229
+msgid "Done"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:238
+#, python-format
+msgid ""
+"You feel: %s %s\n"
+"Choose a strategy:"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:251
+#, python-format
+msgid "Step %d of %d"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:255
+msgid "Done ✓"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:271
+#, python-format
+msgid "You feel %s — that's okay!"
+msgstr ""
+
+#: src/ilskehanteraren/main.py:294
+msgid "Step-by-step anger management for children with NPF"
+msgstr ""

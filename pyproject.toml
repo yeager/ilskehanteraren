@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+[project]
+name = "ilskehanteraren"
+version = "0.1.0"
+description = "Step-by-step anger management for children with NPF"
+authors = [{name = "Daniel Nylander", email = "daniel@danielnylander.se"}]
+license = {text = "GPL-3.0-or-later"}
+requires-python = ">=3.10"
+dependencies = ["PyGObject>=3.42"]
+[project.gui-scripts]
+ilskehanteraren = "ilskehanteraren.main:main"
+[tool.setuptools.packages.find]
+where = ["src"]

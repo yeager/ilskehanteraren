@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ilskehanteraren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ilskehanteraren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:10+0100\n"
+"PO-Revision-Date: 2026-02-22 16:12+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305218/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/ilskehanteraren/main.py:23
+msgid "A little annoyed"
+msgstr "Lite irriterad"
+
+#: src/ilskehanteraren/main.py:24
+msgid "Frustrated"
+msgstr "Frustrerad"
+
+#: src/ilskehanteraren/main.py:25
+msgid "Angry"
+msgstr "Arg"
+
+#: src/ilskehanteraren/main.py:26
+msgid "Very angry"
+msgstr "Mycket arg"
+
+#: src/ilskehanteraren/main.py:27
+msgid "Explosion"
+msgstr "Explosion"
+
+#: src/ilskehanteraren/main.py:32
+msgid "Deep Breathing"
+msgstr "Andas djupt"
+
+#: src/ilskehanteraren/main.py:33
+msgid "Stop what you're doing"
+msgstr "Sluta med vad du gör"
+
+#: src/ilskehanteraren/main.py:33
+msgid "Breathe in through your nose... 1, 2, 3, 4"
+msgstr "Andas in genom näsan... 1, 2, 3, 4"
+
+#: src/ilskehanteraren/main.py:34
+msgid "Hold... 1, 2, 3"
+msgstr "Håll kvar... 1, 2, 3"
+
+#: src/ilskehanteraren/main.py:34
+msgid "Breathe out through your mouth... 1, 2, 3, 4, 5"
+msgstr "Andas ut genom munnen... 1, 2, 3, 4, 5"
+
+#: src/ilskehanteraren/main.py:35
+msgid "Repeat 3 times"
+msgstr "Upprepa tre gånger"
+
+#: src/ilskehanteraren/main.py:35 src/ilskehanteraren/main.py:211
+msgid "How do you feel now?"
+msgstr "Hur känns det nu?"
+
+#: src/ilskehanteraren/main.py:36
+msgid "Walk Away"
+msgstr "Gå därifrån"
+
+#: src/ilskehanteraren/main.py:37
+msgid "Tell someone you need a break"
+msgstr "Säg till någon att du behöver en paus"
+
+#: src/ilskehanteraren/main.py:37
+msgid "Walk to a calm place"
+msgstr "Gå till en lugn plats"
+
+#: src/ilskehanteraren/main.py:38
+msgid "Stay there for 5 minutes"
+msgstr "Stanna där i fem minuter"
+
+#: src/ilskehanteraren/main.py:38
+msgid "Think about what happened"
+msgstr "Tänk på vad som hände"
+
+#: src/ilskehanteraren/main.py:39
+msgid "When you're calm, go back"
+msgstr "När du är lugn, gå tillbaka"
+
+#: src/ilskehanteraren/main.py:40
+msgid "Count Down"
+msgstr "Räkna ner"
+
+#: src/ilskehanteraren/main.py:41
+msgid "Close your eyes"
+msgstr "Stäng ögonen"
+
+#: src/ilskehanteraren/main.py:41
+msgid "Count slowly from 10 to 1"
+msgstr "Räkna långsamt från 10 ner till 1"
+
+#: src/ilskehanteraren/main.py:42
+msgid "10... 9... 8... 7... 6..."
+msgstr "10... 9... 8... 7... 6..."
+
+#: src/ilskehanteraren/main.py:42
+msgid "5... 4... 3... 2... 1..."
+msgstr "5... 4... 3... 2... 1..."
+
+#: src/ilskehanteraren/main.py:43
+msgid "Open your eyes"
+msgstr "Öppna ögonen"
+
+#: src/ilskehanteraren/main.py:43
+msgid "Take a deep breath"
+msgstr "Ta ett djupt andetag"
+
+#: src/ilskehanteraren/main.py:44
+msgid "Squeeze and Release"
+msgstr "Pressa och släpp"
+
+#: src/ilskehanteraren/main.py:45
+msgid "Make tight fists with both hands"
+msgstr "Knyt händerna hårt med båda händerna"
+
+#: src/ilskehanteraren/main.py:45
+msgid "Squeeze as hard as you can"
+msgstr "Pressa så hårt du kan"
+
+#: src/ilskehanteraren/main.py:46
+msgid "Hold for 5 seconds"
+msgstr "Håll kvar i fem sekunder"
+
+#: src/ilskehanteraren/main.py:46
+msgid "Now release and shake your hands"
+msgstr "Släpp nu och skaka händerna"
+
+#: src/ilskehanteraren/main.py:47
+msgid "Feel the tension leaving"
+msgstr "Känn hur spänningen släpper"
+
+#: src/ilskehanteraren/main.py:47
+msgid "Do it again if needed"
+msgstr "Gör det igen om det behövs"
+
+#: src/ilskehanteraren/main.py:48
+msgid "Talk About It"
+msgstr "Prata om det"
+
+#: src/ilskehanteraren/main.py:49
+msgid "Find a trusted person"
+msgstr "Hitta en person du litar på"
+
+#: src/ilskehanteraren/main.py:49
+msgid "Say: 'I feel angry because...'"
+msgstr "Säg: ”Jag känner mig arg för att...”"
+
+#: src/ilskehanteraren/main.py:50
+msgid "Let them listen"
+msgstr "Låt dem lyssna"
+
+#: src/ilskehanteraren/main.py:50
+msgid "Ask for help if you need it"
+msgstr "Be om hjälp om du behöver det"
+
+#: src/ilskehanteraren/main.py:51
+msgid "Make a plan together"
+msgstr "Gör upp en plan tillsammans"
+
+#: src/ilskehanteraren/main.py:58 src/ilskehanteraren/main.py:288
+msgid "Ilskehanteraren"
+msgstr "Ilskehanteraren"
+
+#: src/ilskehanteraren/main.py:67
+msgid "About"
+msgstr "Om"
+
+#: src/ilskehanteraren/main.py:81
+msgid "How angry are you right now?"
+msgstr "Hur arg är du just nu?"
+
+#: src/ilskehanteraren/main.py:106
+msgid "Check-in"
+msgstr "Incheckning"
+
+#: src/ilskehanteraren/main.py:115
+msgid "Choose a calming strategy"
+msgstr "Välj en lugnande strategi"
+
+#: src/ilskehanteraren/main.py:144
+msgid "← Back"
+msgstr "← Bakåt"
+
+#: src/ilskehanteraren/main.py:149
+msgid "Strategies"
+msgstr "Strategier"
+
+#: src/ilskehanteraren/main.py:179
+msgid "← Previous"
+msgstr "← Föregående"
+
+#: src/ilskehanteraren/main.py:184 src/ilskehanteraren/main.py:255
+msgid "Next →"
+msgstr "Nästa →"
+
+#: src/ilskehanteraren/main.py:191
+msgid "Steps"
+msgstr "Steg"
+
+#: src/ilskehanteraren/main.py:205
+msgid "Great job! You handled your anger!"
+msgstr "Bra jobbat! Du hanterade din ilska!"
+
+#: src/ilskehanteraren/main.py:224
+msgid "Start over"
+msgstr "Börja om"
+
+#: src/ilskehanteraren/main.py:229
+msgid "Done"
+msgstr "Klar"
+
+#: src/ilskehanteraren/main.py:238
+#, python-format
+msgid ""
+"You feel: %s %s\n"
+"Choose a strategy:"
+msgstr ""
+"Du känner dig: %s %s\n"
+"Välj en strategi:"
+
+#: src/ilskehanteraren/main.py:251
+#, python-format
+msgid "Step %d of %d"
+msgstr "Steg %d av %d"
+
+#: src/ilskehanteraren/main.py:255
+msgid "Done ✓"
+msgstr "Klar ✓"
+
+#: src/ilskehanteraren/main.py:271
+#, python-format
+msgid "You feel %s — that's okay!"
+msgstr "Du känner dig %s — det är okej!"
+
+#: src/ilskehanteraren/main.py:294
+msgid "Step-by-step anger management for children with NPF"
+msgstr "Steg-för-steg-guide till ilskekontroll för barn med NPF"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ilskehanteraren\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:10+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:12+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305218/sv/)\n"
@@ -65,7 +65,7 @@ msgstr "Andas ut genom munnen... 1, 2, 3, 4, 5"
 msgid "Repeat 3 times"
 msgstr "Upprepa tre gånger"
 
-#: src/ilskehanteraren/main.py:35 src/ilskehanteraren/main.py:211
+#: src/ilskehanteraren/main.py:35 src/ilskehanteraren/main.py:225
 msgid "How do you feel now?"
 msgstr "Hur känns det nu?"
 
@@ -173,59 +173,60 @@ msgstr "Be om hjälp om du behöver det"
 msgid "Make a plan together"
 msgstr "Gör upp en plan tillsammans"
 
-#: src/ilskehanteraren/main.py:58 src/ilskehanteraren/main.py:288
-msgid "Ilskehanteraren"
-msgstr "Ilskehanteraren"
+#: src/ilskehanteraren/main.py:58 src/ilskehanteraren/main.py:75
+#: src/ilskehanteraren/main.py:347
+msgid "Anger Manager"
+msgstr "Ilskekontroll"
 
-#: src/ilskehanteraren/main.py:67
+#: src/ilskehanteraren/main.py:81
 msgid "About"
 msgstr "Om"
 
-#: src/ilskehanteraren/main.py:81
+#: src/ilskehanteraren/main.py:95
 msgid "How angry are you right now?"
 msgstr "Hur arg är du just nu?"
 
-#: src/ilskehanteraren/main.py:106
+#: src/ilskehanteraren/main.py:120
 msgid "Check-in"
 msgstr "Incheckning"
 
-#: src/ilskehanteraren/main.py:115
+#: src/ilskehanteraren/main.py:129
 msgid "Choose a calming strategy"
 msgstr "Välj en lugnande strategi"
 
-#: src/ilskehanteraren/main.py:144
+#: src/ilskehanteraren/main.py:158
 msgid "← Back"
 msgstr "← Bakåt"
 
-#: src/ilskehanteraren/main.py:149
+#: src/ilskehanteraren/main.py:163
 msgid "Strategies"
 msgstr "Strategier"
 
-#: src/ilskehanteraren/main.py:179
+#: src/ilskehanteraren/main.py:193
 msgid "← Previous"
 msgstr "← Föregående"
 
-#: src/ilskehanteraren/main.py:184 src/ilskehanteraren/main.py:255
+#: src/ilskehanteraren/main.py:198 src/ilskehanteraren/main.py:269
 msgid "Next →"
 msgstr "Nästa →"
 
-#: src/ilskehanteraren/main.py:191
+#: src/ilskehanteraren/main.py:205
 msgid "Steps"
 msgstr "Steg"
 
-#: src/ilskehanteraren/main.py:205
+#: src/ilskehanteraren/main.py:219
 msgid "Great job! You handled your anger!"
 msgstr "Bra jobbat! Du hanterade din ilska!"
 
-#: src/ilskehanteraren/main.py:224
+#: src/ilskehanteraren/main.py:238
 msgid "Start over"
 msgstr "Börja om"
 
-#: src/ilskehanteraren/main.py:229
+#: src/ilskehanteraren/main.py:243
 msgid "Done"
 msgstr "Klar"
 
-#: src/ilskehanteraren/main.py:238
+#: src/ilskehanteraren/main.py:252
 #, python-format
 msgid ""
 "You feel: %s %s\n"
@@ -234,20 +235,28 @@ msgstr ""
 "Du känner dig: %s %s\n"
 "Välj en strategi:"
 
-#: src/ilskehanteraren/main.py:251
+#: src/ilskehanteraren/main.py:265
 #, python-format
 msgid "Step %d of %d"
 msgstr "Steg %d av %d"
 
-#: src/ilskehanteraren/main.py:255
+#: src/ilskehanteraren/main.py:269
 msgid "Done ✓"
 msgstr "Klar ✓"
 
-#: src/ilskehanteraren/main.py:271
+#: src/ilskehanteraren/main.py:285
 #, python-format
 msgid "You feel %s — that's okay!"
 msgstr "Du känner dig %s — det är okej!"
 
-#: src/ilskehanteraren/main.py:294
+#: src/ilskehanteraren/main.py:319
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/ilskehanteraren/main.py:353
 msgid "Step-by-step anger management for children with NPF"
 msgstr "Steg-för-steg-guide till ilskekontroll för barn med NPF"
+
+#: src/ilskehanteraren/main.py:356
+msgid "Thanks to"
+msgstr "Tack till"

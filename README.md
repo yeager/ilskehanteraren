@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Ilskehanteraren
 
 Step-by-step anger management for children with NPF/autism.
